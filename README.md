@@ -2,7 +2,7 @@
   <img alt="Terminal running whoami: Osajere Finney, software developer at TradeByBartr" src="./assets/terminal.svg" width="100%">
 </a>
 
-Hi, I'm Finney, a software developer. At [TradeByBartr](https://tradebybartr.com) I help build a live digital trading platform from the ground up. Since 2023 I've also worked on community products, booking systems, commerce and media for clients and teams.
+Hi, I'm Finney, a software developer. At [TradeByBartr](https://tradebybartr.com) I build and manage the frontend of a live digital trading platform. Since 2023 I've also worked on community products, booking systems, commerce and media for clients and teams.
 
 I bring a practical, end-to-end mindset: understanding the problem, implementing the feature, debugging, refining the experience and getting the product ready for release.
 
