@@ -42,4 +42,4 @@ Every project, with roles: [osajerefinney.com/projects](https://www.osajerefinne
 
 - email · [hello@osajerefinney.com](mailto:hello@osajerefinney.com)
 - site · [osajerefinney.com](https://www.osajerefinney.com)
-- linkedin · [in/finney-osajere](https://www.linkedin.com/in/finney-osajere-39530a247)
+- linkedin · [in/finney-osajere](https://www.linkedin.com/in/finney-osajere)
